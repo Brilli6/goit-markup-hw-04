@@ -80,27 +80,27 @@ body {
     margin-top: 0;
     align-items: center;
     justify-items: center;
-    fill: #757575;
+    fill: currentColor;
   }
   .mail-icon:hover {
-    fill: #2196F3;
+    fill: currentColor;
   }
   .mail-icon:focus {
-     fill: #2196F3;
+     fill: currentColor;
   }
   .phone-icon {
     padding-right: 10px;
     padding-inline-start: 0;
     margin-top: 0;
     align-items: center;
-    fill: #757575; 
+    fill: currentColor; 
    
   }
   .phone-icon:hover {
-    fill: #2196F3;   
+    fill: currentColor;   
   }
   .phone-icon:focus {
-     fill: #2196F3;
+     fill: currentColor;
   }
   .mail::before { 
     color:var(--contacts-color);   
