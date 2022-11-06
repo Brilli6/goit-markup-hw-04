@@ -296,15 +296,15 @@ margin-block-end: 0;
 }
 .footer-items  {
     display: flex;
-    width: 100%;
-    max-width: 1600px;
+    gap: 70px; 
+
 }
 .footer-data {
-   width: 30%;
+   width: 50%;
     max-width: 600px;
     box-sizing: border-box;
     padding-left: 215px;
-    flex: 0 1 40%;
+    flex: 0 1 50%;
     }
 .bottom-logo {
     display: block;
